@@ -1,11 +1,10 @@
-package com.ayanami.practical3task2.controller;
+package com.georgij.pw3Task2.controller;
 
-import com.ayanami.practical3task2.model.Post;
-import com.ayanami.practical3task2.model.User;
-import com.ayanami.practical3task2.service.PostService;
-import com.ayanami.practical3task2.service.UserService;
+import com.georgij.pw3Task2.model.Post;
+import com.georgij.pw3Task2.model.User;
+import com.georgij.pw3Task2.service.PostService;
+import com.georgij.pw3Task2.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.domain.Page;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;

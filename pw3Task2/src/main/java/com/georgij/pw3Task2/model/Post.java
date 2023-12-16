@@ -1,10 +1,9 @@
-package com.ayanami.practical3task2.model;
+package com.georgij.pw3Task2.model;
 
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Pattern;
 import lombok.Data;
-import java.util.Date;
 
 @Data
 @Entity

@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ayanami</groupId>
-	<artifactId>practical-3-task-2</artifactId>
+	<artifactId>pw3Task-2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>practical-3-task-2</name>
 	<description>practical-3-task-2</description>

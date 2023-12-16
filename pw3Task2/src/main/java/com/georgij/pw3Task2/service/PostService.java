@@ -1,7 +1,6 @@
-package com.ayanami.practical3task2.service;
+package com.georgij.pw3Task2.service;
 
-import com.ayanami.practical3task2.model.Post;
-import org.springframework.data.domain.Page;
+import com.georgij.pw3Task2.model.Post;
 
 import java.util.List;
 import java.util.Optional;

@@ -1,4 +1,4 @@
-package com.ayanami.practical3task2;
+package com.georgij.pw3Task2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
